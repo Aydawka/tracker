@@ -4,6 +4,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>
+    Finance tracker app
     <TheWelcome />
   </main>
 </template>
